@@ -12,7 +12,7 @@
 <a href="https://dev.to/vqh2602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vqh2602" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vương-quang-huy-2b4267207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vương-quang-huy-2b4267207" height="30" width="40" /></a>
 <a href="https://fb.com/vqhuy2602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vqhuy2602" height="30" width="40" /></a>
-<a href="https://instagram.com/vqh.26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vqh.26" height="30" width="40" /></a>
+<a href="https://instagram.com/im.hwy__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vqh.26" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
